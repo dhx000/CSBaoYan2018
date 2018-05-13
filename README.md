@@ -20,7 +20,7 @@
 [LAMDA招收2019年秋季入学研究生说明](http://cs.nju.edu.cn/zhouzh/zhouzh.files/recruit.html)
 
 ## 浙江大学
-[2018年浙江大学第七届“控制之旅”学术夏令营公告]（http://www.cse.zju.edu.cn/chinese/redir.php?catalog_id=566&object_id=1054037）
+[2018年浙江大学第七届“控制之旅”学术夏令营公告](http://www.cse.zju.edu.cn/chinese/redir.php?catalog_id=566&object_id=1054037）
 
 ## 西安交通大学
 [电子与信息工程学院2018年研究生招生宣传夏令营暨招生宣传日通知](http://eiegrad.xjtu.edu.cn/zhaosheng/view/id/111)
