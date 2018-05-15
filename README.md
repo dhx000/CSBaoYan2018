@@ -7,6 +7,8 @@
 
 [清华-伯克利深圳学院2018年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/index/detail/id/804.html)
 
+[清华大学计算机科学与技术系2018年全国优秀大学生夏令营预通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/2018/20180514161615529361362/20180514161615529361362_.html)
+
 ## 北京大学
 [北京大学前沿交叉学科研究院关于举办2018年交叉学科优秀大学生夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595)
 
@@ -17,7 +19,7 @@
 ## 南京大学
 [南京大学计算机科学与技术系 暨 人工智能学院2018年本科生开放日报名通知](http://csopenday.nju.edu.cn/notifications/1)
 
-[LAMDA招收2019年秋季入学研究生说明](http://cs.nju.edu.cn/zhouzh/zhouzh.files/recruit.html)
+[LAMDA招收2019年秋季入学研究生说明](https://cs.nju.edu.cn/zhouzh/zhouzh.files/recruit.htm)
 
 ## 浙江大学
 [2018年浙江大学第七届“控制之旅”学术夏令营公告](http://www.cse.zju.edu.cn/chinese/redir.php?catalog_id=566&object_id=1054037)
