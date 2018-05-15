@@ -15,17 +15,26 @@
 [北京大学信息工程学院关于举办“2018年全国优秀大学生科技夏令营”的通知](http://www.ece.pku.edu.cn/2018/anotice_0430/2155.html)
 
 ## 南京大学
-[南京大学计算机科学与技术系 暨 人工智能学院2018年本科生开放日报名通知](http://cs.nju.edu.cn/ea/b2/c1654a256690/page.html)
+[南京大学计算机科学与技术系 暨 人工智能学院2018年本科生开放日报名通知](http://csopenday.nju.edu.cn/notifications/1)
 
 [LAMDA招收2019年秋季入学研究生说明](http://cs.nju.edu.cn/zhouzh/zhouzh.files/recruit.html)
 
 ## 浙江大学
 [2018年浙江大学第七届“控制之旅”学术夏令营公告](http://www.cse.zju.edu.cn/chinese/redir.php?catalog_id=566&object_id=1054037)
 
+## 上海交通大学
+[上海交大电院2019年研究生自主招生选拔通知](http://yjwb.seiee.sjtu.edu.cn/yjwb/info/13836.htm)
+
+## 复旦大学
+[2018年复旦大学计算机科学技术学院和软件学院优秀大学生夏令营活动报名通知](http://www.cs.fudan.edu.cn/?p=23278)
+
+## 电子科技大学
+[2018年基础与前沿科学全国优秀大学生夏令营通知](http://www.iffs.uestc.edu.cn/iffs_zh/index.php/article/index/id/780/cid/45.html)
+
 ## 西安交通大学
 [电子与信息工程学院2018年研究生招生宣传夏令营暨招生宣传日通知](http://eiegrad.xjtu.edu.cn/zhaosheng/view/id/111)
 
-## 中科大
+## 中国科学技术大学
 [2018年第五届计算机科学暑期夏令营通知](http://xly.ustc.edu.cn/news.php?newsid=580)
 
 ## 中国人民大学
