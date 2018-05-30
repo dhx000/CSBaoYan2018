@@ -5,7 +5,7 @@
 
 [清华-伯克利深圳学院2018年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/index/detail/id/804.html)
 
-[清华大学计算机科学与技术系2018年全国优秀大学生夏令营预通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/2018/20180514161615529361362/20180514161615529361362_.html)
+[**清华大学计算机系关于举办2018年计算机学科优秀大学生夏令营网上报名的通知**](http://www.tsinghua.edu.cn/publish/cs/4723/2018/20180530130936361290964/20180530130936361290964_.html)
 
 ## 北京大学
 [北京大学前沿交叉学科研究院关于举办2018年交叉学科优秀大学生夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595)
