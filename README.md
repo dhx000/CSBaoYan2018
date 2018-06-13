@@ -77,6 +77,9 @@
 
 [2019年东南大学接收推荐免试研究生预报名通知](http://yzb.seu.edu.cn/2018/0611/c6676a227688/pagem.htm)
 
+## 北京邮电大学
+[北京邮电大学网络技术研究院2018年优秀大学生夏令营活动通知](https://int.bupt.edu.cn/content/content.php?p=1_3_275)
+
 ## 中科院
 [中国科学院自动化研究所 “智能计算与控制”大学生暑期夏令营 ](http://www.ia.cas.cn/yjsjy/zs/sszs/201805/t20180503_5006085.html)
 
